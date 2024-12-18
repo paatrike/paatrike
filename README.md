@@ -1,4 +1,4 @@
- ### <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"><b>Hi , I'm Nexus,  </b></h1>
+ ### <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"><b>Hi , I'm Capitan,  </b></h1>
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
   - programmer focused on creating advanced Discord bots with API integration and MongoDB. I love bringing innovative solutions to tech and anime communities.
     
