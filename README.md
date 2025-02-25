@@ -10,8 +10,7 @@
 <br>
 
 
-  ![](https://github-readme-stats.vercel.app/api?username=cpitn&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false)<br/>
- 
+![](https://github-readme-stats.vercel.app/api?username=paatrike&theme=holi&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
