@@ -7,14 +7,13 @@
 <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
 <ul>
  
-<li> 🧠 Patrick — Front-End developer with a passion for stunning user experiences 
-<li>👨‍💻 Working at Sakora Dev, where creativity meets code
-<li>🎮 Once crafting worlds in Godot, now unleashing imagination in Unity
-<li>🎨 I love turning Figma dreams into pixel-perfect reality — and CSS doesn’t scare me
-<li>🎧 I code to the rhythm of gamewave… or the hum of my desk fan
-<li>🤹‍♂️ Clean code, dark mode, and programmer memes? Yes, please
-<li>🖱️ Favorite tool: Logitech MX Master 3S — coding never felt smoother
-<li>☕ My coffee is black... like the console during a mysterious error
+<li>🧠 Patrick — Front-End dev with big passion
+<li>👨‍💻 At Sakora Dev — code meets creativity
+<li>🎮 From Godot to Unity — I build fun
+<li>🎨 Figma to pixels? Easy
+<li>🎧 Coding with gamewave (and my fan)
+<li>🤹‍♂️ Clean code. Dark mode. Memes
+<li>☕ Coffee? Black. Like console errors
 </ul>
 
 #### A little more about me
