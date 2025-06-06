@@ -36,7 +36,9 @@ public class Me {
 <br>
 
 
-![](https://github-readme-stats.vercel.app/api?username=paatrike&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=paatrike&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)  
+![](https://github-readme-stats.vercel.app/api?username=paatrike&theme=transparent&hide_border=true&include_all_commits=false&count_private=false)
+![](https://nirzak-streak-stats.vercel.app/?user=paatrike&theme=transparent&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=paatrike&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
  
 
 
