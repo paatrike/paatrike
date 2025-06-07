@@ -33,7 +33,7 @@ public class Me {
 
 <p align="center">
 
-- **Languages**:
+- **Languages**
     
    ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
    ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
@@ -43,7 +43,7 @@ public class Me {
   
     <br>
   
-- **Front-End Development**:
+- **Front-End Development**
 
    ![HTML](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
    ![CSS](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
