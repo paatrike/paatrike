@@ -19,7 +19,7 @@
 #### A little more about me
 ```golang
 public class Me {
-    string username = "Patrick";
+    string username = "Dray";
     int age = 20;
     string country = "Morocco";
     string role = "FrontEnd Developer & Game Dev Enthusiast";
@@ -61,7 +61,7 @@ public class Me {
 ---
 [![](https://visitcount.itsvg.in/api?id=drayndev&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
  
  
 
