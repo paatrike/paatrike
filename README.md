@@ -19,7 +19,7 @@
 #### A little more about me
 ```golang
 public class Me {
-    string username = "Dray";
+    string username = "Drayn";
     int age = 20;
     string country = "Morocco";
     string role = "FrontEnd Developer & Game Dev Enthusiast";
