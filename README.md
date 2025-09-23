@@ -26,7 +26,7 @@ public class Me {
     string team = "https://www.sakora.dev/";
 }
 ```
-  ####  Tech Stack
+  ### Tech Stack
 
 <p align="center">
 
