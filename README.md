@@ -66,25 +66,6 @@ public class Me {
 | --- | --- |
 | ![](https://nirzak-streak-stats.vercel.app/?user=paatrike&theme=shadow_blue&hide_border=true)  | ![](https://github-profile-trophy.vercel.app/?username=paatrike&theme=shadow_blue&no-frame=true&no-bg=true&margin-w=4) |
 
-
- 
- 
-[![](https://visitcount.itsvg.in/api?id=paatrike&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
- 
-
-[![](https://visitcount.itsvg.in/api?id=drayndev&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<details>	
-    <summary><b>Front-End Development</b></summary>
-    
-   ![HTML](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-   ![CSS](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-   
-</details>
- 
  
 
 
