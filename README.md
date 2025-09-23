@@ -33,23 +33,26 @@ public class Me {
 
 <p align="center">
 
-- **Languages**
-    
+<details>	
+    <summary><b>🏅 Languages</b></summary>
+   
    ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
    ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
    ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) 
    ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
+   
+</details>
+   
   
-    <br>
-  
-- **Front-End Development**
-
+<details>	
+    <summary><b>🔥 Front-End Development</b></summary>
+    
    ![HTML](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
    ![CSS](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
    ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
    
-
+</details>
 
 #  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
@@ -73,7 +76,14 @@ public class Me {
 
 [![](https://visitcount.itsvg.in/api?id=drayndev&icon=0&color=0)](https://visitcount.itsvg.in)
 
-
+<details>	
+    <summary><b>Front-End Development</b></summary>
+    
+   ![HTML](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+   ![CSS](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+   
+</details>
  
  
 
