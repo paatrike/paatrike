@@ -7,8 +7,7 @@
 <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
 <ul>
  
-<li>🧠 Patrick — Front-End dev with big passion
-<li>👨‍💻 At Sakora Dev — code meets creativity
+<li>🧠 Mohammed — Front-End dev with big passion 
 <li>🎮 From Godot to Unity — I build fun
 <li>🎨 Figma to pixels? Easy
 <li>🎧 Coding with gamewave (and my fan)
@@ -19,7 +18,7 @@
 ### A little more about me
 ```golang
 public class Me {
-    string username = " Patrick";
+    string username = " mohamed";
     int age = 20;
     string country = "Morocco";
     string role = "FrontEnd Developer & Game Dev Enthusiast";
